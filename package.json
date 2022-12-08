@@ -1,5 +1,5 @@
 {
-  "name": "figma-code-highlighter",
+  "name": "fork-figma-code-highlighter",
   "version": "1.0.0",
   "description": "Code highlighter for Figma. This plugin supports about 200 languages and about 100 color schemas.",
   "keywords": [
